@@ -1,6 +1,6 @@
 <div align="center">
   
-# 💫 Hi i'm Aradhya Sakalley:
+# 💫 Hi i'm Aradhya
 Bringing ideas to life in the world of 0s and 1s. 🌟
 <br>
 
