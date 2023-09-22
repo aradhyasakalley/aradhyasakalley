@@ -3,7 +3,10 @@
 # 💫 Hi i'm Aradhya
 Bringing ideas to life in the world of 0s and 1s. 🌟
 <br>
-
+- 🎓 **Third Year Computer Engineering student at D. J. Sanghvi College of Engineering.**
+- 🚀 **React Native Mentor** at **Unicode.**
+- 💼 Ex **React Native Intern** at **AllCanLearn.**
+- 📫 Reach out to me at **sakalleyaradhya@gmail.com.**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aradhyasakalley) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aradhyasakalley) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/sakalleyaradhya) 
