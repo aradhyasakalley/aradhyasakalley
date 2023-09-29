@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   
 # 💫 Hi i'm Aradhya
 Bringing ideas to life in the world of 0s and 1s. 🌟
