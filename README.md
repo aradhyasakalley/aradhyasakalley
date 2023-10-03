@@ -3,7 +3,7 @@
   <h3 align="center">Bringing ideas to life in the world of 0s and 1s. 🌟</h3>
 
 
-  <img align="right" alt="coding" width="450" src="https://github.com/aradhyasakalley/aradhyasakalley/assets/102210237/20bda020-7b9f-45fe-8fa7-9a424ce3fac0">
+  <img align="right" alt="coding" width="420" src="https://github.com/aradhyasakalley/aradhyasakalley/assets/102210237/20bda020-7b9f-45fe-8fa7-9a424ce3fac0">
 
   <p align="left">
     <img src="https://komarev.com/ghpvc/?username=aradhyasakalley&label=Profile%20views&color=0e75b6&style=flat"
