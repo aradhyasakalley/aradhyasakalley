@@ -2,8 +2,7 @@
   <h1 align="center">Hey 👋, I'm Aradhya</h1>
   <h3 align="center">Bringing ideas to life in the world of 0s and 1s. 🌟</h3>
 
-
-  <img align="right" alt="coding" width="420" src="https://github.com/aradhyasakalley/aradhyasakalley/assets/102210237/fa7a1a8c-d234-46cd-8cf1-46555d8ea0df">
+  <img align="right" alt="coding" width="420" src="https://github.com/aradhyasakalley/aradhyasakalley/assets/102210237/54661518-4f37-423d-ab99-358e94f1bd1d">
 
   <p align="left">
     <img src="https://komarev.com/ghpvc/?username=aradhyasakalley&label=Profile%20views&color=0e75b6&style=flat"
