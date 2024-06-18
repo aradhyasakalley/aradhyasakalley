@@ -12,6 +12,7 @@
 
 
   - 🎓 **Third Year Computer Engineering student.**
+  - 💼 **Game Programmer Intern** at **Kiddopia.**
   - 🚀 **React Native Mentor** at **Unicode.**
   - 💼 Ex **React Native Intern** at **AllCanLearn.**
   - 📫 Reach out to me at **sakalleyaradhya@gmail.com.**
