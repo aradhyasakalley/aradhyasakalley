@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Hey 👋, I'm Aradhya</h1>
+  <h1 align="center">Hey, I'm Aradhya</h1>
   <h3 align="center">Bringing ideas to life in the world of 0s and 1s. 🌟</h3>
 
   <img align="right" alt="coding" width="420" src="https://github.com/aradhyasakalley/aradhyasakalley/assets/102210237/54661518-4f37-423d-ab99-358e94f1bd1d">
