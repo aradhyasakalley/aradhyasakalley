@@ -1,4 +1,5 @@
-![b1](https://github.com/user-attachments/assets/83c13156-9ded-4626-9495-abf7053e60ce)
+<img src="https://github.com/user-attachments/assets/83c13156-9ded-4626-9495-abf7053e60ce" alt="b1" width="1000" height="250" />
+
 <h1>Hello, I'm Aradhya</h1>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
